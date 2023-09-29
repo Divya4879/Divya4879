@@ -54,12 +54,14 @@ Welcome to my GitHub profile! I'm a passionate Web Developer <img src="https://m
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divya4879&border_radius=4.7)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Divya4879&border_radius=4.4)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divya4879&layout=compact&theme=vision-friendly-dark)](https://github.com/Divya4879)
 
+---
 
-
-
-
+### 😉: Programming Joke :
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!--
 **Divya4879/Divya4879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
