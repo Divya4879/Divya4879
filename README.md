@@ -3,8 +3,8 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/divya-singh-444b4b190/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://x.com/Divya67274866">
+    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white%22%20alt=%22X%20Badge"/>
   </a>
   <a href="divyasingh0803@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-blue%3Fstyle%3D%26logo%3Dgmail%26logoColor%3Dwhite?style=for-the-badge&logo=gmail&logoColor=white&color=red"/>
