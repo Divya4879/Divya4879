@@ -16,7 +16,7 @@
 
 <h1 align="center">
   HEY THERE!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://iconscout.com/lottie-animation/female-web-developer-7362400.gif" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -24,7 +24,7 @@
 
 ---
 
-### :man_technologist: About Me :
+### :woman_technologist: About Me :
 Welcome to my GitHub profile! I'm a passionate Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. 
 
 - 💻 I’m currently working on Web Development projects and some tech stacks.
