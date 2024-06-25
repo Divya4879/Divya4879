@@ -16,10 +16,10 @@
 
 <h1 align="center">
   HEY THERE!!
-  <img src="https://iconscout.com/lottie-animation/female-web-developer-7362400.gif" width="30px"/>
+  <img src="https://media.tenor.com/CU-PX1m0egYAAAAM/wave-hi.gif" width="30px"/>
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -28,10 +28,9 @@
 Welcome to my GitHub profile! I'm a passionate Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. 
 
 - 💻 I’m currently working on Web Development projects and some tech stacks.
-- 🌱 I’m currently learning Cloud Services and Data Analytics.
+- 🌱 I’m currently exploring Machine Learning & Data Analytics.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Divya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/divya-singh-444b4b190/)
-- ⚡ Fun fact: I am dedicated to physical health and mental well-being
 
 ---
 
